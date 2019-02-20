@@ -6,5 +6,6 @@ class Person
     @name = new_name
   end
   def job
+    @job
   end
 end
